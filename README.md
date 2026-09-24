@@ -1,38 +1,33 @@
+# 👋 Hi, I'm **Eiad 451**
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eiad%20451&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20%26%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+### 🐍 Backend & Automation Engineer
+### ⚡ Telegram Bots • 🔐 Security Tools • 🚀 Scalable Python
 
-<a href="https://t.me/VT_YC">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Backend+%26+Automation+Engineer+%F0%9F%90%8D;Telegram+Bots+%7C+Security+Tools;Scalable+Python+%7C+Clean+Code;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://t.me/VT_YC"><img src="https://img.shields.io/badge/Telegram-@VT__YC-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://github.com/eiad451"><img src="https://img.shields.io/badge/GitHub-eiad451-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/eiad451"><img src="https://img.shields.io/badge/Twitter-eiad451-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=eiad451&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+[![Telegram](https://img.shields.io/badge/Telegram-@VT_YC-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VT_YC)
+[![GitHub](https://img.shields.io/badge/GitHub-eiad451-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eiad451)
+[![Location](https://img.shields.io/badge/Cairo-Egypt%20🇪🇬-red?style=for-the-badge)](https://github.com/eiad451)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 ```python
 class Eiad451:
     def __init__(self):
-        self.name        = "Eiad 451"
-        self.role        = "Backend & Automation Engineer"
-        self.location    = "Cairo, Egypt 🇪🇬"
-        self.telegram    = "@VT_YC"
-        self.focus       = ["Telegram Bots", "Security Tools", "Scalable Python"]
-        self.languages   = ["Python", "JavaScript", "HTML", "Bash"]
-        self.currently   = "Building high-performance automation systems"
-        self.hireable    = True
+        self.name       = "Eiad 451"
+        self.role       = "Backend & Automation Engineer"
+        self.location   = "Cairo, Egypt 🇪🇬"
+        self.languages  = ["Python", "JavaScript", "HTML", "Bash"]
+        self.focus      = ["Telegram Bots", "Security Tools", "Automation"]
+        self.contact    = "t.me/VT_YC"
+        self.hireable   = True
 
     def motto(self):
-        return "Code with purpose, ship with precision."
+        return "Build. Automate. Scale. 🔥"
 ```
 
 ---
@@ -41,97 +36,85 @@ class Eiad451:
 
 <div align="center">
 
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bash,flask,fastapi,nodejs" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,nginx,mysql,sqlite,redis" />
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eiad451&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiad451&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eiad451&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eiad451&theme=tokyo-night&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&hide_border=true" width="95%"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=eiad451&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+![Eiad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eiad451&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eiad451&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eiad451&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 LegendaryBot-Server
+Telegram bot server for selling digital products — fully automated, Python-powered.
+
+</td>
+<td width="50%">
+
+### 🔓 VT_Patcher
+SSL unpinning & patcher tool for Android security research.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🕷️ Website Scraper
+Powerful scraper to extract data from any website.
+
+</td>
+<td width="50%">
+
+### 🌐 Hosting
+Modern landing page for hosting services.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/eiad451/LegendaryBot-Server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eiad451&repo=LegendaryBot-Server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7"/>
-</a>
-<a href="https://github.com/eiad451/VT_Patcher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eiad451&repo=VT_Patcher&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7"/>
-</a>
-<a href="https://github.com/eiad451/JokerSanctum">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eiad451&repo=JokerSanctum&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7"/>
-</a>
-<a href="https://github.com/eiad451/Zmzm-Hosting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eiad451&repo=Zmzm-Hosting&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7"/>
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-VT__YC-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VT_YC)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eiad451@users.noreply.github.com)
 
 </div>
 
 ---
 
-## 📈 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eiad451/eiad451/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%"/>
+### 💡 "Build. Automate. Scale."
 
-</div>
+⭐️ From [eiad451](https://github.com/eiad451)
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://t.me/VT_YC"><img src="https://img.shields.io/badge/Telegram-DM%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:eiad451@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-**💡 Open to collaborations, freelance work, and interesting projects.**
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=eiad451&color=blueviolet&style=for-the-badge)
 
 </div>
